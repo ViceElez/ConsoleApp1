@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("nesto novo")
+Console.WriteLine("nesto novo");
+Console.WriteLine("jos nesto novo");

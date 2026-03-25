@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     public class Class1
     {
+        static void MyMethod()
+        {
+            Console.WriteLine("This is a class");
+        }
     }
 }

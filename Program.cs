@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("nesto novo");
 Console.WriteLine("jos nesto novo");
+Console.Write("ovo je moje");
